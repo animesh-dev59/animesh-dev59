@@ -1,3 +1,5 @@
+<img width="2172" height="724" alt="bannner" src="https://github.com/user-attachments/assets/d801f2e4-1214-41ed-94a8-064eb3eba3fc" />
+
 <h1 align="center">Hi 👋, I'm Animesh Rudra Paul</h1>
 <h3 align="center">A passionate Frontend Developer based in Moulvibazar, Bangladesh</h3>
 
