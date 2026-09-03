@@ -1,9 +1,9 @@
 <img width="2172" height="724" alt="bannner" src="https://github.com/user-attachments/assets/d801f2e4-1214-41ed-94a8-064eb3eba3fc" />
 
-<h1 align="center">
-  Hi 👋, I'm 
+<h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  <span>Hi 👋, I'm</span>
   <a href="https://github.com/animesh-dev59">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&height=50&lines=Animesh+Rudra+Paul;A+Frontend+Developer;A+React+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=false&vcenter=true&width=310&height=35&lines=Animesh+Rudra+Paul;A+Frontend+Developer;A+React+Learner" alt="Typing SVG" valign="middle" />
   </a>
 </h1>
 
