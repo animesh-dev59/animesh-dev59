@@ -1,19 +1,19 @@
-<img width="2172" height="724" alt="bannner" src="https://github.com/user-attachments/assets/d801f2e4-1214-41ed-94a8-064eb3eba3fc" />
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/d801f2e4-1214-41ed-94a8-064eb3eba3fc" />
 
-<h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
-  <span>Hi 👋, I'm</span>
+<h1 align="center">Hi 👋, I'm Animesh Rudra Paul</h1>
+
+<p align="center">
   <a href="https://github.com/animesh-dev59">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=false&vcenter=true&width=310&height=35&lines=Animesh+Rudra+Paul;A+Frontend+Developer;A+React+Learner" alt="Typing SVG" valign="middle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=435&lines=Frontend+Developer;React+%26+TypeScript+Learner;Open+Source+Contributor" alt="Typing SVG" />
   </a>
-</h1>
+</p>
 
 <h3 align="center">A passionate Frontend Developer based in Moulvibazar, Bangladesh</h3>
 
+<br />
+
 - 🌱 I’m currently learning **React, TypeScript & Tailwind CSS**
-- 👯 I’m looking to collaborate on 
-  <a href="https://github.com/animesh-dev59">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=38BDF8&background=FF000000&width=350&height=25&lines=Frontend+%2F+React+Projects;Open+Source+Projects;Web+Development" alt="Typing SVG" />
-  </a>
+- 👯 I’m looking to collaborate on **Frontend / React Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React & Responsive Web Design**
 - 📫 How to reach me **animeshrudrapaul90@gmail.com**
 
