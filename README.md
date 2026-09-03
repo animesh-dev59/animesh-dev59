@@ -4,13 +4,14 @@
 <h3 align="center">A passionate Frontend Developer based in Moulvibazar, Bangladesh</h3>
 
 - 🌱 I’m currently learning **React, TypeScript & Tailwind CSS**
-- 👯 I’m looking to collaborate on **Frontend / React Projects**
+- 👯 I’m looking to collaborate on 
+  <a href="https://github.com/animesh-dev59">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=38BDF8&background=FF000000&width=350&height=25&lines=Frontend+%2F+React+Projects;Open+Source+Projects;Web+Development" alt="Typing SVG" />
+  </a>
 - 💬 Ask me about **HTML, CSS, JavaScript, React & Responsive Web Design**
 - 📫 How to reach me **animeshrudrapaul90@gmail.com**
 
 <br />
-
-
 
 <hr />
 
