@@ -8,10 +8,7 @@
 
 <br />
 
-<h3 align="left">FOLLOW ME ON SOCIALS:</h3>
-<p align="left">
-  <a href="https://dev.to/animesh-dev59" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-</p>
+
 
 <hr />
 
