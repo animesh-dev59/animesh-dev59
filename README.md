@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/d801f2e4-1214-41ed-94a8-064eb3eba3fc" />
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/d801f2e4-1214-41ed-94a8-064eb3eba3fc" />
 
 <h1 align="center">Hi 👋, I'm Animesh Rudra Paul</h1>
 
@@ -51,17 +51,20 @@
 
 <br />
 
-<!-- Snake Contribution Animation -->
+<!-- 🐍 Snake Contribution Animation (Auto Light & Dark Mode) -->
+<h3 align="center">My Contributions 🐍</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/animesh-dev59/animesh-dev59/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/animesh-dev59/animesh-dev59/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/animesh-dev59/animesh-dev59/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/animesh-dev59/animesh-dev59/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
-<!-- Top Languages Bar -->
-<p align="center">
+<br />
+
+<!-- 📊 GitHub Stats & Top Languages -->
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-dev59&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-dev59&theme=dark" alt="Streak Stats" />
-</p>
+</div>
